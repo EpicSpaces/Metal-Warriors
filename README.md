@@ -8,6 +8,5 @@ Screenshots :
 ![Alt text](Metal_Warriors_Screenshot_2.png?raw=true "pic")
 ![Alt text](Metal_Warriors_Screenshot_3.png?raw=true "pic")
 ![Alt text](Metal_Warriors_Screenshot_4.png?raw=true "pic")
-![Alt text](Metal_Warriors_Screenshot_5.png?raw=true "pic")
 ![Alt text](Metal_Warriors_Screenshot_6.png?raw=true "pic")
 
